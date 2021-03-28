@@ -12,6 +12,7 @@
         <module>HDFS</module>
         <module>zookeeper</module>
         <module>MapReduce</module>
+        <module>Custom_InputFormat_And_OutputFormat</module>
     </modules>
 
     <properties>
